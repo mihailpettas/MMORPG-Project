@@ -27,7 +27,7 @@ This is a project developed by an underage game-design-obsessed kid. Although i 
 
 *• Code-wise the game has very extended abilities considering the circumstances, like inventory (drag'n'drop) system, quest system, stats mathematical model (simple, im shit at math), an awesome rotating Pirates of the Caribbean 3 style map, enemy ai (again simple) and guess what, working networking! You could create an account back then and sync with other players and monsters. Complete with SQL, SmartfoxServer X2 (i thing deprecated) and all!*
 
-Below you can see a sample of the map. Incredible work of [Kenji Iwata](https://iwatakenji.wordpress.com/):
+*Below you can see a sample of the map. Incredible work of [Kenji Iwata](https://iwatakenji.wordpress.com/):*
 ![Map](https://github.com/Mistral-Designs/The_Abandoned_MMORPG_Project/blob/master/map.jpg?raw=true)
 
 There is much more content like icons, story, quests etc...
