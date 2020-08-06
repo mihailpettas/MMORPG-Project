@@ -25,6 +25,8 @@ This is a project developed by an underage game-design-obsessed kid. Although i 
 
 *• I have only left the 'Assets' and 'Packages' folders so when you open it for first time Unity will rebuild the rest*
 
+*• The server-side code is lost. But it doesn't matter since the whole code is ancient anyway*
+
 *• Code-wise the game has very extended abilities considering the circumstances, like inventory (drag'n'drop) system, quest system, stats mathematical model (simple, im shit at math), an awesome rotating Pirates of the Caribbean 3 style map, enemy ai (again simple) and guess what, working networking! You could create an account back then and sync with other players and monsters. Complete with SQL, PHP, JS, SmartfoxServer X2 (i think its deprecated) and all!*
 
 *Below you can see a sample of the map. Incredible work of [Kenji Iwata](https://iwatakenji.wordpress.com/):*
