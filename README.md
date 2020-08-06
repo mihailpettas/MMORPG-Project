@@ -1,7 +1,7 @@
 # The_Abandoned_MMORPG_Project
 *An MMORPG Unity project initialized in 2011, developed for 3 years and eventually abandoned...*
 
-**Alright, some context! ˅**
+**Alright, some context!**
 
 This was the classic "my first game will be a huge mmo success" attempt, condemned ofcourse to the same end as any other. I started this project in the first year of high school, when i started learning programming along with 3d graphics after working with flash and actionscript 3 for some time. Since it was my first big programming project it started as some expiremental scenes and code, deleting and re-creating everything multiple times to reach the current state. During the 3 years of its development a few very talented people added their artistic touch too. Although most of you will consider this project a messy piece of trash, there is something "unique" about it. Every map it contains was concieved in a dream. I didn't have the easiest sleep back then and used to dream different landscapes and stories very vividly sometimes. Some of them are in here. The project was abandoned when i entered the university and some maps didn't make it. The repository contains all the artwork i possess too in hope someone will see what i saw when i was making it.
 
