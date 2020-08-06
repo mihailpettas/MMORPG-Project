@@ -1,4 +1,4 @@
-# The_Abandoned_MMORPG_Project
+# Abandoned-MMORPG-Project
 *An MMORPG Unity project initialized in 2011, developed for 3 years and eventually abandoned...*
 
 **Alright, some context!**
