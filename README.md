@@ -35,5 +35,3 @@ This is a project developed by an underage game-design-obsessed kid. Although i 
 There is much more content like icons, story, quests etc...
 
 If you want my opinion there is no sense in "continuing" this project. If i wanted to work on it i would only use it as an "artistic guide". Even the code is too old to copy. The maps may not compare to the current ones Unity can make, hell probably didn't compare even back then, but they tell something. I would also be a bit careful with the third-party licenses (yo-ho)... If you catch the world i had in my mind back then, even now you can have an amazing result. Im sorry this project didn't make it. It was obviously doomed from the start but i put many many hours and love into it. I have currently left the gaming industry for good but it would be a dream to see it make flesh one day even in some other's hands with the same obsession i had. In that case please contact me, i would love to help at least concept-wise.
-	
-*-Mistral*
